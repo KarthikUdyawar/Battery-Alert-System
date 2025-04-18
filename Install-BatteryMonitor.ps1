@@ -4,7 +4,7 @@
 .DESCRIPTION
     Sets up the Battery Alert System to run at Windows startup
 .NOTES
-    Author: BatteryAlertSystem
+    Author: KarthikUdyawar
     Date: April 18, 2025
 #>
 

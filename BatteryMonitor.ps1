@@ -5,7 +5,7 @@
     Monitors battery level and alerts when battery falls below 20% or exceeds 95%
     Provides audio and visual notifications using native Windows features
 .NOTES
-    Author: BatteryAlertSystem
+    Author: KarthikUdyawar
     Date: April 18, 2025
 #>
 
